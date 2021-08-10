@@ -2,7 +2,7 @@
 **Problem Statement - 1**
 Please create a project on GitHub by name “DSA Practice” and write the program for all the topics shown below:
 
-**LinkedList:**
+**com.company.LinkedList:**
 Insertion at beginning
 Insertion at end
 Insertion after specified node
@@ -13,7 +13,7 @@ Searching
 Traversing
 
 **Stack**
-Push, Pop and Traversing(Implement using Array or LinkedList)
+Push, Pop and Traversing(Implement using Array or com.company.LinkedList)
 
 **Queue**
 Insert
